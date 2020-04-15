@@ -1,0 +1,151 @@
+.photo { 
+    text-align: center;
+}
+table tr td{
+    
+    line-height: 5px;
+    height: 1px;
+  
+}
+
+table
+{
+    height: 20px;
+    width: 100%;
+}
+.haut
+{
+    text-align: center;
+}
+.vide
+{
+    border: none;
+}
+.H
+{
+    background-color:  #9E95C7;
+    
+}
+.Li,.Na,.K,.Rb,.Cs,.Fr
+{
+    background-color: #A3DAC9;
+} 
+.Be,.Mg,.Ca,.Sr,.Ba,.Ra
+{
+    background-color: #CDEBC8;
+}
+.Sc,.Y,.Lu,.Lr
+{
+    background-color:#F8A78E;
+}
+.Ti,.Zr,.Hf,.Rf
+{
+    background-color:#F8A78E;
+}
+.V,.Nb,.Ta,.Db
+{
+    background-color: #F8A78E;
+}
+.Cr,.Mo,.W,.Sg
+{
+    background-color:#F8A78E;
+}
+.Mn,.Tc,.Re,.Bh
+{
+    background-color:#F8A78E;
+}
+.Fe,.Ru,.Os,.Hs
+{
+    background-color: #F8A78E;
+}
+.Co,.Rh,.Ir,.Mt
+{
+    background-color:#F8A78E;
+}
+.Ni,.Pd,.Pt,.Ds
+{
+    background-color:#F8A78E;
+}
+.Cu,.Ag,.Au,.Rg
+{
+    background-color:#F8A78E;
+}
+.Zn,.Cd,.Hg,.Cn
+{
+    background-color: #F8A78E;
+}
+.B{
+    background-color: #F0F9C1;
+}
+.AI,.Ga,.In,.TI,.Nh
+{
+    background-color:  #FECEA0;
+}
+.C{
+    background-color:  #9E95C7;
+}
+.Si,.Ge
+{
+    background-color:  #F0F9C1;
+}
+.Sn,.Pb,.FI
+{
+    background-color: #FECEA0;
+}
+.N,.P
+{
+    background-color:  #9E95C7;
+}
+.As,.Sb
+{
+    background-color:  #F0F9C1;
+}
+.Bi,.Mc
+{
+    background-color:  #FECEA0;
+}
+.O,.S,.Se
+{
+    background-color:  #9E95C7;
+}
+.Te,.Po
+{
+    background-color:  #F0F9C1;
+}
+.Lv
+{
+    background-color: #FECEA0;
+}
+.F,.CI,.Br,.I,.At,.Ts
+{
+    background-color: #FEECB9
+}
+.He,.Ne,.Ar,.Kr,.Xe,.Rn,.Og
+{
+    background-color: #84B8D7;
+}
+.La,.Ce,.Pr,.Nd,.Pm,.Sm,.Eu,.Gd,.Tb,.Dy,.Ho,.Er,.Tm,.Yb
+{
+    background-color: #E68B95;
+}
+.Ac,.Th,.Pa,.U,.Np,.Pu,.Am,.Cm,.Bk,.Cf,.Es,.Fm,.Md,.No
+{
+    background-color:   #C5678E
+}
+@media screen and (max-width:1200px){
+    p{
+        font-size: 10px;
+    }
+}
+@media all and (max-width:1024px)
+{
+    p{
+    font-size: 0.5px;
+    } 
+    table
+    {
+       
+    }
+}
+
+
